@@ -1,0 +1,5 @@
+matplotlib
+tqdm
+lightning
+torchvision
+pytorch-fid
